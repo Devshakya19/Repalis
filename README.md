@@ -1,7 +1,7 @@
 <p align="center">
 
-  <a href="https://polar.sh">
-      <img src="https://polar.sh/assets/landing/company/polar.jpg" />
+  <a href="https://github.com/Devshakya19/Repalis">
+      <img src="./.github/assets/banner.jpg" alt="Repalis" />
   </a>
 
 </p>
