@@ -1,5 +1,13 @@
 # @polar-sh/nuxt
 
+## 1.1.1
+
+### Patch Changes
+
+- d67de96: Update `@polar-sh/sdk` to version 1.1.0.
+- Updated dependencies [d67de96]
+  - @polar-sh/adapter-utils@1.1.1
+
 ## 1.1.0
 
 ### Minor Changes
